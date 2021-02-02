@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS messages_2(id serial PRIMARY KEY, msg VARCHAR(255));
